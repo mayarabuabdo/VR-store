@@ -1,0 +1,23 @@
+.navbar-nav .nav-item .nav-link:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+.navbar-nav .nav-item .nav-link{
+  font-size: 20px;
+}
+
+#Products .nav .nav-item .nav-link{
+  color:black;
+font-weight: bold;
+}
+
+#Products .nav .nav-item .nav-link:hover{
+background-color: rgb(83, 83, 252);
+color: white;
+border-top: 1px solid black;
+border-left: 1px solid black;
+border-right: 1px solid black;
+border-bottom:none;
+border-radius: 10px;
+}
